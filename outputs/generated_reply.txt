@@ -1,0 +1,21 @@
+
+==================================================
+Customer Name: Priya
+Customer Email: My order has not arrived yet.
+Generated Reply:
+Subject: Quick Update on Your Order
+
+Hi [Customer's Name],
+
+I hope this message finds you well.
+
+I just wanted to give you an update on your recent order. We received your concern and are currently looking into the delivery details. We value your patience and will keep you posted as soon as we have more information.
+
+Thank you for your understanding.
+
+Best regards,
+[Your Name]
+[Your Position]
+Alibaba Cloud
+Intent: Delivery Issue
+Date: 2026-10-11 19:16:10
